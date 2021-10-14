@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+
+     <!--CSS Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!--Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+</head>
+    
+<body>
+    <div class="introduction">
+        <i> * This is a password generator app that can be used to generate unique passwords (combination of letters, numbers & symbols) </i>
+        <p><i>* Minimum length of password = 4 and Maximum length = 20</i></p>
+        <p><i>* Once your desired password is generated you can click on the clipboard symbol to copy the password </i></p>
+    </div>
+   <br>
+
+    <div class="container">
+        <h2>Password Generator</h2>
+
+        <div class="result-container">
+            <span id="result"></span>
+            <button class="btn" id="clipboard"><i class="far fa-clipboard"></i></button>
+        </div>
+
+        <div class="settings">
+             <div class="setting">
+                 <label>Password length</label>
+                 <input type="number" id="length" min="4" max="20" value="20">
+             </div>
+
+             <div class="setting">
+                <label>Include lowercase letters</label>
+                <input type="checkbox" id="lowercase" checked>
+            </div>
+
+            <div class="setting">
+                <label>Include uppercase letters</label>
+                <input type="checkbox" id="uppercase" checked>
+            </div>
+    
+            <div class="setting">
+                <label>Include numbers</label>
+                <input type="checkbox" id="numbers" checked>
+            </div>
+    
+            <div class="setting">
+                <label>Include symbols</label>
+                <input type="checkbox" id="symbols" checked>
+            </div>
+        </div>
+
+        <button class="btn btn-large" id="generate"> Generate Password</button>
+
+    </div>
+    
+<!-- Javascript files start here -->
+ <script src="script.js"></script>   
+</body>
+</html>
