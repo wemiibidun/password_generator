@@ -21,7 +21,7 @@ I built a password generator app that can be used to generate random passwords. 
 The aim of this project is to allow users to generate password easily without going through the hassle of thinking of what password to use everytime a password is needed. 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/portfolio_resume/blob/main/portfolio_resume.png)
+![Sample image](https://github.com/wemiibidun/password_generator/blob/main/password_generator_screenshot.png)
 
 ## Technologies (Language, Library and Framework)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
