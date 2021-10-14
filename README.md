@@ -3,7 +3,7 @@
 
 
 # Password Generator
-I built a password generator app that can be used to generate random passwords. The passwords generated are a mixture of number, letters and symbols.
+This is a password generator app that can be used to generate random passwords. The password generated are a mixture of number, letters and symbols.
 
 
 ## Table of contents
@@ -13,7 +13,6 @@ I built a password generator app that can be used to generate random passwords. 
 * [Features](#features)
 * [Link to Published Project](#link-to-published-portfolio)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
@@ -37,15 +36,11 @@ The GUI of this project allows users to:
 * Generate a unique password
 * Copy the unique password generated to clipboard
 
-
 ## Link to Published Project
 [porfolio_resume_webpage](https://wemiibidun.github.io/portfolio_resume/)
 
 ## Status
 Project is: _Complete_
-
-## Inspiration
-This project was created with the support of [JavaScript Mastery's Tutorial](https://www.youtube.com/watch?v=OPaLnMw2i_0&ab_channel=JavaScriptMastery)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
