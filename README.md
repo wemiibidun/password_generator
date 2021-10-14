@@ -37,7 +37,7 @@ The GUI of this project allows users to:
 * Copy the unique password generated to clipboard
 
 ## Link to Published Project
-[porfolio_resume_webpage](https://wemiibidun.github.io/portfolio_resume/)
+[password_generator_webpage](https://wemiibidun.github.io/password_generator/)
 
 ## Status
 Project is: _Complete_
