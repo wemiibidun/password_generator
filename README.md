@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/password_generator)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 
 # Password Generator
