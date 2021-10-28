@@ -1,4 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/password_generator)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/password_generator)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 
